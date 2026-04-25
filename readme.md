@@ -31,7 +31,7 @@ Tienes que tener Python instalado y git.
 
 Con git metete a cualquier carpeta y solamente clona el repositorio
 ```sh
-git clone https://github.com/NexWan/MindScrap
+git clone https://github.com/isairey/MindboxScrapper
 ```  
 
 
